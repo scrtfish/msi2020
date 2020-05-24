@@ -57,7 +57,7 @@ const Main = () => {
         // let b = a.map((item) => item.value);
         // a.filter((item) => item.index < 3);
         // return console.log(a);
-        console.log(Object.assign({}, ...a));
+        // console.log(Object.assign({}, ...a));
         // res.data.result.map((item) => console.log(item.value));
         // console.log(item)
         // );
@@ -68,7 +68,7 @@ const Main = () => {
         // let g = a.reduce();
         // let h = a.join("\n");
         // setQuote(e);
-        // console.log(a);
+        console.log(a);
       });
   };
 
